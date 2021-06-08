@@ -8,7 +8,14 @@ NOTE! Very crude tool developed in the heat of the moment. Far from perfect or r
 Clone repository and run ```make```
 
 ## Usage
-```mapfinder <file> <variable> [-hsS]```
+```
+mapfinder <file> <variable> [-hsS]
+
+  -h  Print this help text.\n\n\
+  -s  Show size of the variable.\n\n\
+  -S  Show only size of the variable.\n\n\
+
+```
 
 ## License
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
